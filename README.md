@@ -16,7 +16,7 @@ For screenshot, please refer to `./Screenshot/ElasticBean.png`
 For screenshot, please refer to `./Screenshot/WebHosting1.png` and `./Screenshot/WebHosting2.png`
 
 ## CircleCi
-Pipeline will be triggered when there is any code change
+Pipeline will be triggered when there is any code change, please refer to `./Document/CircleCI.md`
 For green build screenshot, please refer to `./Screenshot/CircleCI_Pipeline.png`
 For AWS settings screenshot, please refer to `./Screenshot/CircleCI_Settings.png`
 
