@@ -18,5 +18,6 @@ Need approval after build phase to go to deploy phase
 2. Setup EB
 3. Setup AWS-CLI
 4. Checkout code
-6. Deploy udagram-api 
-7. Deploy udagram-frontend
+6. Pass secrets from CircleCI to EB
+7. Deploy udagram-api 
+8. Deploy udagram-frontend
