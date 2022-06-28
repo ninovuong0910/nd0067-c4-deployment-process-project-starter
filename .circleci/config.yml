@@ -59,6 +59,7 @@ jobs:
           name: Deploy App
           # Install, build, deploy in both apps
           command: |
+            echo ${AWS_ACCESS_KEY_ID}
             npm run deploy
             
 workflows:
